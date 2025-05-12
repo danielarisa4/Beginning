@@ -1,0 +1,5 @@
+ls -a -> lista arquivos ocultos
+
+rmdir -rf /diretório/ -> -rf reformulate force
+
+bash ->  born again shell
