@@ -1,0 +1,3 @@
+git init . -> cira um repo git na pasta autal
+git add arquivo -> adiciona arquivo para ser commit
+git commit -m "msg" -> faz commit do que estava para ser commitado
