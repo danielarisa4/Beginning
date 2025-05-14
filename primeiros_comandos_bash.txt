@@ -4,10 +4,6 @@ rmdir -rf /diretório/ -> -rf reformulate force
 
 bash ->  born again shell
 
-teste2
+git log -> mostra o histórico dos commites
 
-teste3
-
-teste4
-
-teste 55
+pwd -> print working directory
